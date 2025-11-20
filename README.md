@@ -1,4 +1,8 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github)
+![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousefZewyed&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefZewyed)
+
+
 
 <!--
 **Yousefzewyed/Yousefzewyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
