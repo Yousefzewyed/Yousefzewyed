@@ -1,4 +1,8 @@
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github)
+#Frontend Developer 
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github,cpp,laravel,linux,ps,php)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefZewyed)
 
 
